@@ -1,0 +1,47 @@
+{
+    "items": [
+        {
+            "item_id": "SH001",
+            "name": "White Casual",
+            "color": "White",
+            "brand": "H&M",
+            "size": "M",
+            "fabric": "Cotton",
+            "type": "shirt"
+        },
+        {
+            "item_id": "SH002",
+            "name": "Vintage Denim",
+            "color": "Blue",
+            "brand": "L&V",
+            "size": "L",
+            "fabric": "Linen",
+            "type": "shirt"
+        },
+        {
+            "item_id": "JN001",
+            "name": "Blue Slim",
+            "color": "Blue",
+            "brand": "Levi's",
+            "waist_size": 32,
+            "fit_type": "Slim",
+            "type": "jeans"
+        },
+        {
+            "item_id": "Jk001",
+            "name": "Black Hoodie",
+            "color": "Black",
+            "brand": "Nikw",
+            "jacket_type": "Hoodie",
+            "waterproof": false,
+            "type": "jacket"
+        }
+    ],
+    "favourite_outfits": [
+        {
+            "shirt_id": "SH001",
+            "jeans_id": "JN001",
+            "jacket_id": "Jk001"
+        }
+    ]
+}
