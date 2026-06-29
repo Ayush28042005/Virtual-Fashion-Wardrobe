@@ -1,6 +1,6 @@
 # Virtual Fashion Wardrobe
 
-A Python-based command-line application that acts as your personal digital wardrobe. Add clothing items, generate random outfit suggestions, and save your favourite combinations — all stored persistently in a JSON file.
+A Python-based command-line application that acts as your personal digital wardrobe. Add clothing items, generate random outfit suggestions and save your favourite combinations - all stored persistently in a JSON file.
 
 ---
 
@@ -73,7 +73,6 @@ No external libraries required.
 
 ```
 === Virtual Fashion Wardrobe ===
-👕 Shirts: 2  👖 Jeans: 1  🧥 Jackets: 1
 1. Add Shirt
 2. Add Jeans
 3. Add Jacket
