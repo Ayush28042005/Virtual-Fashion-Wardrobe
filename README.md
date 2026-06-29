@@ -1,10 +1,10 @@
-# 👗 Virtual Fashion Wardrobe
+# Virtual Fashion Wardrobe
 
 A Python-based command-line application that acts as your personal digital wardrobe. Add clothing items, generate random outfit suggestions, and save your favourite combinations — all stored persistently in a JSON file.
 
 ---
 
-## ✨ Features
+## Features
 
 - Add shirts with size and fabric details
 - Add jeans with waist size and fit type
@@ -18,7 +18,7 @@ A Python-based command-line application that acts as your personal digital wardr
 
 ---
 
-## 🏗️ Class Hierarchy
+## Class Hierarchy
 
 ```
 ClothingItem (Parent)
@@ -33,7 +33,7 @@ OutfitGenerator   → generates random outfit suggestions
 
 ---
 
-## 🧠 OOP Concepts Used
+## OOP Concepts Used
 
 | Concept | Where Used |
 |---|---|
@@ -45,7 +45,7 @@ OutfitGenerator   → generates random outfit suggestions
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Virtual-Fashion-Wardrobe/
@@ -59,17 +59,17 @@ Virtual-Fashion-Wardrobe/
 
 ---
 
-## 🚀 How To Run
+## How To Run
 
 ```bash
 python main.py
 ```
 
-No external libraries required. Just Python 3.x!
+No external libraries required.
 
 ---
 
-## 📋 Menu Options
+## Menu Options
 
 ```
 === Virtual Fashion Wardrobe ===
@@ -86,7 +86,7 @@ No external libraries required. Just Python 3.x!
 
 ---
 
-## 🔮 Future Upgrades
+## Future Upgrades
 
 - Color matching algorithm
 - Weather-based outfit recommendations
@@ -96,7 +96,7 @@ No external libraries required. Just Python 3.x!
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Ayush Saini**
-B.Tech CSE-AIML | 3rd Year
+
